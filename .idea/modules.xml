@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaPrgm/JavaPrgm.iml" filepath="$PROJECT_DIR$/JavaPrgm/JavaPrgm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPrograms.iml" filepath="$PROJECT_DIR$/.idea/JavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrgm/com.xworkz/com.xworkz.iml" filepath="$PROJECT_DIR$/JavaPrgm/com.xworkz/com.xworkz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xworkz.AccessSpecifierEg/com.xworkz.AccessSpecifierEg.iml" filepath="$PROJECT_DIR$/com.xworkz.AccessSpecifierEg/com.xworkz.AccessSpecifierEg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xworkzz/com.xworkzz.iml" filepath="$PROJECT_DIR$/com.xworkzz/com.xworkzz.iml" />
+    </modules>
+  </component>
+</project>
